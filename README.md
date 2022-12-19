@@ -2,32 +2,44 @@
 iOS 면접 준비
 
 
-### AutoLayouts
 
-
-| 질문 | 답변모음 |
-|--|:--:|
-| | |
  
-
-
 ### iOS
 
 
 
 | 질문 | 답변모음 | 
 |--|:--:|
+| GCD | |
+| 앱의 생명주기 | |
+| Copy On Write | |
 | | |
- 
-
 
 
 ### Swift Fundamentals
 
 | 질문 | 답변모음 | 
 |--|:--:|
+| Closure와 escaping closure | | 
+| optional과 optional의 내부 구조 | | 
+| 프로토콜 | |
+| Collection Type의 종류와 특징 | |
+| struct와 class의 차이 | |
+| 이니셜라이져와 Convenience init | |
+| Generic | |
+| Extension에서 사용할 수 없는 프로퍼티 | |
+| Access Control의 필요성과 각 종류의 특징  |  | 
+| CaptureLists와 weak, unowned의 차이 | |
+| enum의 caselterable과 연관 값(Associated Values | |
 | | |
  
+
+### AutoLayouts
+
+
+| 질문 | 답변모음 |
+|--|:--:|
+| | |
 
 
 
@@ -36,17 +48,19 @@ iOS 면접 준비
 
 | 질문 | 답변모음 | 
 |--|:--:|
-| | |
+| ARC의 동작원리 | |
  
 
 ### Architecture
 
 
-
 | 질문 | 답변모음 | 
 |--|:--:|
-| | |
- 
+| Singleton Pattern | |
+| SOLID | |
+| MVVM vs MVC | |
+| Delegate Pattern | |
+  
 
 
 ### Rx
@@ -61,11 +75,44 @@ iOS 면접 준비
 ### Network
 
 
-| 질문 | 답변모음 | 
-|--|:--:|
-| | |
- 
+| 키워드| 질문 | 답변모음 | 
+|--|:--:|:--:|
+| REST API | 특징과 단점 | |
+|  | 가벼운 개념 정의 |  |
+|  |Over-Fetching/Under-Fetching|  |
+| TCP vs UDP | 프로토콜 특성에 따라 적합한 서비스 | |
+| 프로세스와 스레드 | 정의 |  |
+|   | 메모리 관점에서의 정리 |  |
+| HTTP vs HTTPS  | 정의  |  |
+| |SSL/TLS 관점에서 대칭키 암호화/비대칭키(공개키) 암호화|  |
+|  | ATS  |  |
 
+
+### Database
+
+
+| 키워드| 질문 | 답변모음 | 
+|--|:--:|:--:|
+| 데이터베이스 특징 | 정의| |
+| |트랜잭션 | |
+| | ACID| |
+| | 정합성 | |
+| | 무결성| |
+| | | |
+
+
+### 운영체제
+
+
+| 키워드| 질문 | 답변모음 | 
+|--|:--:|:--:|
+| 메모리 구조 | 코드| |
+| | 데이터 | |
+| | 힙 | |
+| | 스택 | |
+| | | |
+
+ 
 
 
 ## 발표 내용
