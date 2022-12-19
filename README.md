@@ -10,7 +10,7 @@ iOS 면접 준비
 
 | 질문 | 답변모음 | 
 |--|:--:|
-| GCD | [#1](../issues/1) |
+| GCD | [#1](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/1) |
 | 앱의 생명주기 | |
 | Copy On Write | |
 | | |
@@ -56,7 +56,7 @@ iOS 면접 준비
 
 | 질문 | 답변모음 | 
 |--|:--:|
-| Singleton Pattern | |
+| Singleton Pattern | [#2](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/2) |
 | SOLID | |
 | MVVM vs MVC | |
 | Delegate Pattern | |
