@@ -11,7 +11,7 @@ iOS 면접 준비
 | 질문 | 답변모음 | 
 |--|:--:|
 | GCD | [#1](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/1) |
-| 앱의 생명주기 | |
+| 앱의 생명주기 | [#7](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/7) |
 | Copy On Write | |
 | | |
 
@@ -24,9 +24,9 @@ iOS 면접 준비
 | optional과 optional의 내부 구조 | | 
 | 프로토콜 | |
 | Collection Type의 종류와 특징 | |
-| struct와 class의 차이 | |
-| 이니셜라이져와 Convenience init | |
-| Generic | |
+| struct와 class의 차이 | [#3](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/3) |
+| 이니셜라이져와 Convenience init | [#5](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/5) |
+| Generic | [#4](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/4) |
 | Extension에서 사용할 수 없는 프로퍼티 | |
 | Access Control의 필요성과 각 종류의 특징  |  | 
 | CaptureLists와 weak, unowned의 차이 | |
@@ -48,7 +48,7 @@ iOS 면접 준비
 
 | 질문 | 답변모음 | 
 |--|:--:|
-| ARC의 동작원리 | |
+| ARC의 동작원리 | [#6](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/6) |
  
 
 ### Architecture
