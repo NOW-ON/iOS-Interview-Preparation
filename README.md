@@ -1,6 +1,5 @@
 # iOS Interview Preparation
-iOS 면접 준비
-
+iOS 면접 빈출 질문 답변을 정리합니다. 
 
 
  
