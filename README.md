@@ -13,7 +13,8 @@ iOS 면접 준비
 | GCD | [#1](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/1) |
 | 앱의 생명주기 | [#7](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/7) |
 | Copy On Write | |
-| | |
+| App Thining| [#28](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/28)|
+|  |  |
 
 
 ### Swift Fundamentals
@@ -22,8 +23,8 @@ iOS 면접 준비
 |--|:--:|
 | Closure와 escaping closure | | 
 | optional과 optional의 내부 구조 | | 
-| 프로토콜 | |
-| Collection Type의 종류와 특징 | |
+| 프로토콜 |[#9](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/9) |
+| Collection Type의 종류와 특징 | [#8](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/8)|
 | struct와 class의 차이 | [#3](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/3) |
 | 이니셜라이져와 Convenience init | [#5](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/5) |
 | Generic | [#4](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/4) |
@@ -32,7 +33,7 @@ iOS 면접 준비
 | CaptureLists와 weak, unowned의 차이 | |
 | enum의 caselterable과 연관 값(Associated Values | |
 | | |
- 
+| | |
 
 ### AutoLayouts
 
