@@ -11,7 +11,7 @@ iOS 면접 빈출 질문 답변을 정리합니다.
 |--|:--:|
 | GCD | [#1](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/1) |
 | 앱의 생명주기 | [#7](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/7) |
-| Copy On Write | |
+| Copy On Write | [#17](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/17)|
 | App Thining| [#28](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/28)|
 |  |  |
 
@@ -20,17 +20,17 @@ iOS 면접 빈출 질문 답변을 정리합니다.
 
 | 질문 | 답변모음 | 
 |--|:--:|
-| Closure와 escaping closure | | 
-| optional과 optional의 내부 구조 | | 
+| Closure와 escaping closure | [#11](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/11) | 
+| Optional과 Optional의 내부 구조 | [#12](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/12) | 
 | 프로토콜 |[#9](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/9) |
 | Collection Type의 종류와 특징 | [#8](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/8)|
 | struct와 class의 차이 | [#3](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/3) |
 | 이니셜라이져와 Convenience init | [#5](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/5) |
 | Generic | [#4](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/4) |
-| Extension에서 사용할 수 없는 프로퍼티 | |
-| Access Control의 필요성과 각 종류의 특징  |  | 
-| CaptureLists와 weak, unowned의 차이 | |
-| enum의 caselterable과 연관 값(Associated Values | |
+| Extension에서 사용할 수 없는 프로퍼티 | [#19](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/19)|
+| Access Control의 필요성과 각 종류의 특징  | [#18](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/18) | 
+| CaptureLists와 weak, unowned의 차이 | [#16](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/16)|
+| Enum의 Caselterable과 연관 값(Associated Values) | [#15](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/15) |
 | | |
 | | |
 
@@ -57,9 +57,9 @@ iOS 면접 빈출 질문 답변을 정리합니다.
 | 질문 | 답변모음 | 
 |--|:--:|
 | Singleton Pattern | [#2](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/2) |
-| SOLID | |
-| MVVM vs MVC | |
-| Delegate Pattern | |
+| SOLID | [#14](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/14)|
+| MVVM vs MVC | [#13](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/13) |
+| Delegate Pattern | [#10](https://github.com/NOW-ON/iOS-Interview-Preparation/issues/10)|
   
 
 
